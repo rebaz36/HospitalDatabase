@@ -47,3 +47,9 @@ CREATE TABLE treatments_history (
     treatment_id INT,
     PRIMARY KEY(id)
 );
+
+-- Indexes for Foreign Keys
+CREATE INDEX ON medical_histories (patient_id);
+CREATE INDEX ON invoices (medical_history_id);
+CREATE INDEX ON invoice_items (invoice_id, treatment_id);
+CREATE INDEX ON treatments_history (medical_history_id, treatment_id);
