@@ -9,11 +9,11 @@ Create a database by interpreting a diagram data model for a hospital system.
 - Twitter: [@Rebaz415](https://twitter.com/rebaz415)
 - LinkedIn: [@Rebaz](https://www.linkedin.com/in/rebazf/)
 
-👤 **Josué David Benavides Salinas**
+👤 **Didier Peran Ganthier**
 
-- GitHub: [@Github]()
-- Twitter: [@Twitter]()
-- LinkedIn: [@LinkedIn]()
+- GitHub: [@didierganthier](https://github.com/didierganthier)
+- Twitter: [@didierganthier_](https://twitter.com/didierganthier_)
+- LinkedIn: [@Didier Peran Ganthier](https://linkedin.com/in/didierganthier)
 
 ## 🤝 Contributing
 
